@@ -1,0 +1,51 @@
+.log{
+    display: flex;
+    width: 20%;
+    justify-content: space-between;
+    color:black;
+    list-style: none;
+    align-items: center;
+    font-size: 24px;
+    margin-right: 2rem;
+}
+.nav-search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:80%
+}
+.top-mid-container{
+    display: flex;
+    width: 60%;
+}
+.logout-span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 150px;
+    color:black
+}
+.logout-span:hover{
+    cursor: pointer;
+    color:black
+}
+.topbar-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.topbar-brand{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 5rem;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    transition: 0.5s;
+    border-bottom:1px solid black;
+}
+.topbar-brand:hover{
+    color:black;
+    border-bottom:1px solid black;
+    border-radius: 20px;
+}

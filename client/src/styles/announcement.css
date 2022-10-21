@@ -1,0 +1,10 @@
+.announcement-container{
+    width: 100%;
+    display: flex;
+    background-color: rgb(243, 109, 0);
+    color:white;
+    font-size: 24px;
+    padding: 0.8rem;
+    align-items: center;
+    justify-content: center;
+}
